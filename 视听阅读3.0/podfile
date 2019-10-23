@@ -1,0 +1,8 @@
+platform:ios,'8.0'
+target:ShiTingYueDu do
+pod 'AVOSCloud' 
+pod 'FMDB'
+pod 'MBProgressHUD’
+end
+
+
